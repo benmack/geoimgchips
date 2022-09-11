@@ -1,0 +1,76 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": "Raedlinger Weiher",
+            "type": "Feature",
+            "properties": {
+                "tiles": "32UQU, 32UQV, 33UUP, 33UUQ"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.57970,
+                    48.67412
+                ]
+            }
+        },
+        {
+            "id": "Lerchenauer See",
+            "type": "Feature",
+            "properties": {
+                "tiles": "32UPU"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.53678,
+                    48.19723
+                ]
+            }
+        },
+        {
+            "id": "Kieswerk Ebenhoeh",
+            "type": "Feature",
+            "properties": {
+                "tiles": "32UPU, 32UQU"
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.76433,
+                    48.18998
+                ]
+            }
+        },
+        {
+            "id": "Marzlinger Weiher",
+            "type": "Feature",
+            "properties": {
+                "tiles": "32UPU, 32UQU"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.795693,
+                    48.392441
+                ]
+            }
+        },
+        {
+            "id": "Tegernsee",
+            "type": "Feature",
+            "properties": {
+                "tiles": "32UPU, 32UQU, 32TPT, 32TQT"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.72314,
+                    47.74210
+                ]
+            }
+        }
+    ]
+}

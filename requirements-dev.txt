@@ -1,0 +1,5 @@
+black[jupyter]
+geopandas
+pytest
+shapely
+utm
